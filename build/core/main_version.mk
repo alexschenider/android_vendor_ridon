@@ -4,7 +4,7 @@ ADDITIONAL_BUILD_PROPERTIES += \
     ro.lineage.releasetype=$(LINEAGE_BUILDTYPE) \
     ro.lineage.build.version=$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR) \
     ro.modversion=$(RIDON_VERSION) \
-    ro.lineagelegal.url=https://lineageos.org/legal
+    ro.lineagelegal.url=https://ridon.id/legal
 
 # LineageOS Platform Display Version
 ADDITIONAL_BUILD_PROPERTIES += \
