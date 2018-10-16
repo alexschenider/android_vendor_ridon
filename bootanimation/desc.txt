@@ -1,6 +1,11 @@
-1620 540 30
+1080 1920 24
 p 1 0 part0
-c 0 0 part1
+c 1 0 part1
 c 1 0 part2
 c 1 0 part3
+c 1 0 part4
+c 1 0 part5
+c 1 0 part6
+
+
 
